@@ -1,0 +1,2 @@
+# bbpress-multilingual
+bbPress Multilingual
